@@ -12,7 +12,7 @@ class App extends Component {
                 <strong>npm install --global yarn</strong>
         </p>
         <ul>
-          <li><strong>Note:</strong> s</li>
+          <li><strong>Note:</strong> This can also be solved using npm rather than yarn but i had network issues, so had to consider yarn</li>
         </ul>
         <p>Also added a public folder which contains an <strong>index.html</strong></p>
         </div>
