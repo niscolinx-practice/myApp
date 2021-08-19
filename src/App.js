@@ -15,9 +15,7 @@ class App extends Component {
         </li>
         <li>Also added a public folder which contains an <strong>index.html</strong></li>
         </ol>
-        <ul>
-          <li><strong>Note:</strong> This can also be solved using npm rather than yarn but i had network issues, so had to consider yarn</li>
-        </ul>
+        <h4><strong>Note:</strong> This can also be solved using npm rather than yarn but i had network issues, so had to consider yarn</h4>
         <h3>Happy Coding!</h3>
         </div>
     )
